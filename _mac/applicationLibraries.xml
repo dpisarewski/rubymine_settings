@@ -756,6 +756,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/gemfury-0.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="gemfury (v0.6.0, RVM: ruby-2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/gemfury-0.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/gemfury-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/gemfury-0.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/gemfury-0.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="highline (v1.6.21, RVM: ruby-2.3.0 [etv_core]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/highline-1.6.21/lib" />
@@ -764,6 +774,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/highline-1.6.21/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/highline-1.6.21/site" />
+      </SOURCES>
+    </library>
+    <library name="highline (v1.6.21, RVM: ruby-2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/highline-1.6.21/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/highline-1.6.21/site" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/highline-1.6.21/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/highline-1.6.21/site" />
       </SOURCES>
     </library>
     <library name="hirb (v0.7.3, RVM: ruby-2.3.0) [gem]">
@@ -1218,6 +1238,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/netrc-0.10.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/netrc-0.10.3/data" />
+      </SOURCES>
+    </library>
+    <library name="netrc (v0.10.3, RVM: ruby-2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/netrc-0.10.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/netrc-0.10.3/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/netrc-0.10.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@global/gems/netrc-0.10.3/data" />
       </SOURCES>
     </library>
     <library name="newrelic_rpm (v3.14.2.312, RVM: ruby-2.3.0) [gem]">
