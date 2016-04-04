@@ -1,0 +1,15 @@
+<code_scheme name="Default (1)">
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <MultiMarkdownCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MultiMarkdownCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="ruby">
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
