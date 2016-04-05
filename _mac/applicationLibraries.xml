@@ -510,6 +510,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/cri-2.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="curb (v0.9.1, RVM: ruby-2.3.0 [kci-be]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/curb/0.9.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/curb-0.9.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/curb-0.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/curb-0.9.1/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/curb/0.9.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/curb-0.9.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/curb-0.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/curb-0.9.1/tests" />
+      </SOURCES>
+    </library>
     <library name="curb (v0.9.1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/curb/0.9.1" />
@@ -874,6 +888,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/etv_core-0.2.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/etv_core-0.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="etv_core (v0.3.0, RVM: ruby-2.3.0 [kci-be]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/etv_core-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/etv_core-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/etv_core-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/etv_core-0.3.0/lib" />
       </SOURCES>
     </library>
     <library name="eventmachine (v1.0.9.1, RVM: ruby-2.3.0 [kci-be]) [gem]">
@@ -1948,6 +1972,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/nokogiri-1.6.7.2/suppressions" />
       </SOURCES>
     </library>
+    <library name="nokogiri (v1.6.7.2, RVM: ruby-2.3.0 [kci-be]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogiri/1.6.7.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/nokogiri-1.6.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/nokogiri-1.6.7.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/nokogiri-1.6.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/nokogiri-1.6.7.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/nokogiri-1.6.7.2/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/nokogiri-1.6.7.2/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogiri/1.6.7.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/nokogiri-1.6.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/nokogiri-1.6.7.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/nokogiri-1.6.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/nokogiri-1.6.7.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/nokogiri-1.6.7.2/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/nokogiri-1.6.7.2/suppressions" />
+      </SOURCES>
+    </library>
     <library name="nokogiri (v1.6.7.2, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogiri/1.6.7.2" />
@@ -2996,6 +3040,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/sinatra-contrib-1.4.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="sinatra-param (v1.4.0@f71c1c, RVM: ruby-2.3.0 [kci-be]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/bundler/gems/sinatra-param-f71c1c777ff7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/bundler/gems/sinatra-param-f71c1c777ff7/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/bundler/gems/sinatra-param-f71c1c777ff7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/bundler/gems/sinatra-param-f71c1c777ff7/example" />
       </SOURCES>
     </library>
     <library name="sinatra-param (v1.4.0@f71c1c, RVM: ruby-2.3.0) [gem]">
