@@ -870,6 +870,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/bundler/gems/etv_core-f229dd8e4e24/lib" />
       </SOURCES>
     </library>
+    <library name="etv_core (v0.1.9@8e2c70, RVM: ruby-2.3.0 [kci-be]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/bundler/gems/etv_core-8e2c70586172/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/bundler/gems/etv_core-8e2c70586172/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/bundler/gems/etv_core-8e2c70586172/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/bundler/gems/etv_core-8e2c70586172/lib" />
+      </SOURCES>
+    </library>
     <library name="etv_core (v0.1.9@8e2c70, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/bundler/gems/etv_core-8e2c70586172/bin" />
