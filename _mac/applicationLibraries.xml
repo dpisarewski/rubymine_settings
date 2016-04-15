@@ -762,6 +762,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/elasticsearch-1.0.15/lib" />
       </SOURCES>
     </library>
+    <library name="elasticsearch (v1.0.17, RVM: ruby-2.3.0 [kci-be]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/elasticsearch-1.0.17/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/elasticsearch-1.0.17/lib" />
+      </SOURCES>
+    </library>
     <library name="elasticsearch-api (v1.0.15, RVM: ruby-2.3.0 [etv_core]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/elasticsearch-api-1.0.15/lib" />
@@ -792,6 +800,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/elasticsearch-api-1.0.15/utils" />
       </SOURCES>
     </library>
+    <library name="elasticsearch-api (v1.0.17, RVM: ruby-2.3.0 [kci-be]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/elasticsearch-api-1.0.17/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/elasticsearch-api-1.0.17/utils" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/elasticsearch-api-1.0.17/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/elasticsearch-api-1.0.17/utils" />
+      </SOURCES>
+    </library>
     <library name="elasticsearch-transport (v1.0.15, RVM: ruby-2.3.0 [etv_core]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/elasticsearch-transport-1.0.15/lib" />
@@ -814,6 +832,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/elasticsearch-transport-1.0.15/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-transport (v1.0.17, RVM: ruby-2.3.0 [kci-be]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/elasticsearch-transport-1.0.17/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/elasticsearch-transport-1.0.17/lib" />
       </SOURCES>
     </library>
     <library name="etv_core (v0.1.4, RVM: ruby-2.3.0) [gem]">
@@ -974,6 +1000,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/etv_core-0.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/etv_core-0.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="etv_core (v0.4.1, RVM: ruby-2.3.0 [kci-be]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/etv_core-0.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/etv_core-0.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/etv_core-0.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/etv_core-0.4.1/lib" />
       </SOURCES>
     </library>
     <library name="eventmachine (v1.0.9.1, RVM: ruby-2.3.0 [kci-be]) [gem]">
