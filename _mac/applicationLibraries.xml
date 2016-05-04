@@ -148,6 +148,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/apidiesel-0.13/lib" />
       </SOURCES>
     </library>
+    <library name="apidiesel (v0.14, RVM: ruby-2.3.0 [kci-be]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/apidiesel-0.14/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/apidiesel-0.14/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/apidiesel-0.14/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/apidiesel-0.14/lib" />
+      </SOURCES>
+    </library>
     <library name="apidiesel (v0.9, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/apidiesel-0.9/bin" />
@@ -1854,6 +1864,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/httpi-2.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="httpi (v2.4.2, RVM: ruby-2.3.0 [kci-be]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/httpi-2.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/httpi-2.4.2/lib" />
       </SOURCES>
     </library>
     <library name="httpi (v2.4.2, RVM: ruby-2.3.0) [gem]">
