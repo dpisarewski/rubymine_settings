@@ -1856,6 +1856,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/httpi-2.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="httpi (v2.4.2, RVM: ruby-2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/httpi-2.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/httpi-2.4.2/lib" />
+      </SOURCES>
+    </library>
     <library name="i18n (v0.7.0, RVM: ruby-2.2.4 [kci-be]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/i18n-0.7.0/lib" />
@@ -3376,6 +3384,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rcsv-0.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="redcarpet (v3.3.4, RVM: ruby-2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/redcarpet/3.3.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/redcarpet-3.3.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/redcarpet-3.3.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/redcarpet-3.3.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/redcarpet/3.3.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/redcarpet-3.3.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/redcarpet-3.3.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/redcarpet-3.3.4/lib" />
+      </SOURCES>
+    </library>
     <library name="redis (v3.2.2, RVM: ruby-2.2.4 [kci-be]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/redis-3.2.2/lib" />
@@ -4434,6 +4456,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/sneakers-2.3.5/lib" />
       </SOURCES>
     </library>
+    <library name="socksify (v1.7.0, RVM: ruby-2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/socksify-1.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/socksify-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/socksify-1.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/socksify-1.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="state_machine (v1.2.0, RVM: ruby-2.3.0 [kci-be]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/state_machine-1.2.0/lib" />
@@ -4808,6 +4840,20 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/xml-simple-1.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="yard (v0.8.7.6, RVM: ruby-2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/yard-0.8.7.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/yard-0.8.7.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/yard-0.8.7.6/templates" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/yard-0.8.7.6/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/yard-0.8.7.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/yard-0.8.7.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/yard-0.8.7.6/templates" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/yard-0.8.7.6/benchmarks" />
       </SOURCES>
     </library>
   </component>
