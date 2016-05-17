@@ -2934,6 +2934,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/json-1.8.3/diagrams" />
       </SOURCES>
     </library>
+    <library name="kgio (v2.10.0, RVM: ruby-2.3.0 [kci-be]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/kgio/2.10.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/kgio-2.10.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/kgio-2.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/kgio-2.10.0/archive" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/kgio/2.10.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/kgio-2.10.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/kgio-2.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/kgio-2.10.0/archive" />
+      </SOURCES>
+    </library>
     <library name="launchy (v2.4.3, RVM: ruby-2.2.4 [kci-be]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/launchy-2.4.3/bin" />
@@ -4048,12 +4062,14 @@
     </library>
     <library name="puma (v3.4.0, RVM: ruby-2.3.0 [kci-be]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/puma/3.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/puma-3.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/puma-3.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/puma-3.4.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/puma-3.4.0/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/puma/3.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/puma-3.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/puma-3.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/puma-3.4.0/lib" />
@@ -4210,6 +4226,20 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@kci-be/gems/rainbow-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="raindrops (v0.16.0, RVM: ruby-2.3.0 [kci-be]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/raindrops/0.16.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/raindrops-0.16.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/raindrops-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/raindrops-0.16.0/archive" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/raindrops/0.16.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/raindrops-0.16.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/raindrops-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/raindrops-0.16.0/archive" />
       </SOURCES>
     </library>
     <library name="rake (v10.4.2, RVM: ruby-2.3.0 [etv_core]) [gem]">
@@ -6254,6 +6284,28 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@kci-be/gems/unicode-display_width-0.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@kci-be/gems/unicode-display_width-0.3.1/data" />
+      </SOURCES>
+    </library>
+    <library name="unicorn (v5.1.0, RVM: ruby-2.3.0 [kci-be]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/unicorn/5.1.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/unicorn-5.1.0/t" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/unicorn-5.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/unicorn-5.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/unicorn-5.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/unicorn-5.1.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/unicorn-5.1.0/archive" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/unicorn-5.1.0/Documentation" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/unicorn/5.1.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/unicorn-5.1.0/t" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/unicorn-5.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/unicorn-5.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/unicorn-5.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/unicorn-5.1.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/unicorn-5.1.0/archive" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/unicorn-5.1.0/Documentation" />
       </SOURCES>
     </library>
     <library name="warden (v1.2.6, RVM: ruby-2.2.4 [kci-be]) [gem]">
