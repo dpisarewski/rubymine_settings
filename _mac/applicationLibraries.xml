@@ -380,6 +380,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/builder-3.2.2/rakelib" />
       </SOURCES>
     </library>
+    <library name="builder (v3.2.2, RVM: ruby-2.3.0 [etv_core]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/builder-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/builder-3.2.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/builder-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/builder-3.2.2/rakelib" />
+      </SOURCES>
+    </library>
     <library name="builder (v3.2.2, RVM: ruby-2.3.0 [kci-be]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/builder-3.2.2/lib" />
@@ -3146,6 +3156,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@kci-be/gems/mail-2.6.3/lib" />
       </SOURCES>
     </library>
+    <library name="mail (v2.6.4, RVM: ruby-2.3.0 [etv_core]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/mail-2.6.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/mail-2.6.4/lib" />
+      </SOURCES>
+    </library>
     <library name="method_source (v0.8.2, RVM: ruby-2.2.4 [kci-be]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/method_source-0.8.2/lib" />
@@ -3238,6 +3256,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@kci-be/gems/mime-types-2.99.1/support" />
       </SOURCES>
     </library>
+    <library name="mime-types (v3.0, RVM: ruby-2.3.0 [etv_core]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/mime-types-3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/mime-types-3.0/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/mime-types-3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/mime-types-3.0/support" />
+      </SOURCES>
+    </library>
     <library name="mime-types (v3.0, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/mime-types-3.0/lib" />
@@ -3246,6 +3274,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/mime-types-3.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/mime-types-3.0/support" />
+      </SOURCES>
+    </library>
+    <library name="mime-types-data (v3.2016.0221, RVM: ruby-2.3.0 [etv_core]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/mime-types-data-3.2016.0221/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/mime-types-data-3.2016.0221/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/mime-types-data-3.2016.0221/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/mime-types-data-3.2016.0221/data" />
       </SOURCES>
     </library>
     <library name="mime-types-data (v3.2016.0221, RVM: ruby-2.3.0) [gem]">
@@ -3392,6 +3430,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@kci-be/gems/minitest-5.8.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.9.0, RVM: ruby-2.3.0 [etv_core]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/minitest-5.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/minitest-5.9.0/lib" />
       </SOURCES>
     </library>
     <library name="multi_json (v1.11.2, RVM: ruby-2.2.4 [kci-be]) [gem]">
@@ -4956,6 +5002,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/rspec_junit_formatter-0.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="rspec_junit_formatter (v0.2.3, RVM: ruby-2.3.0 [etv_core]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/rspec_junit_formatter-0.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/rspec_junit_formatter-0.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec_junit_formatter (v0.2.3, RVM: ruby-2.3.0 [kci-be]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/rspec_junit_formatter-0.2.3/lib" />
@@ -5488,6 +5542,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/sequel-4.33.0/lib" />
       </SOURCES>
     </library>
+    <library name="sequel (v4.34.0, RVM: ruby-2.3.0 [etv_core]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/sequel-4.34.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/sequel-4.34.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/sequel-4.34.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/sequel-4.34.0/lib" />
+      </SOURCES>
+    </library>
     <library name="serverengine (v1.5.11, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/serverengine-1.5.11/lib" />
@@ -5610,6 +5674,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/simplecov-0.11.2/features" />
       </SOURCES>
     </library>
+    <library name="simplecov (v0.11.2, RVM: ruby-2.3.0 [etv_core]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/simplecov-0.11.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/simplecov-0.11.2/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/simplecov-0.11.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/simplecov-0.11.2/features" />
+      </SOURCES>
+    </library>
     <library name="simplecov (v0.11.2, RVM: ruby-2.3.0 [kci-be]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/simplecov-0.11.2/lib" />
@@ -5652,6 +5726,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/simplecov-html-0.10.0/views" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/simplecov-html-0.10.0/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/simplecov-html-0.10.0/public" />
+      </SOURCES>
+    </library>
+    <library name="simplecov-html (v0.10.0, RVM: ruby-2.3.0 [etv_core]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/simplecov-html-0.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/simplecov-html-0.10.0/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/simplecov-html-0.10.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/simplecov-html-0.10.0/public" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/simplecov-html-0.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/simplecov-html-0.10.0/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/simplecov-html-0.10.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/simplecov-html-0.10.0/public" />
       </SOURCES>
     </library>
     <library name="simplecov-html (v0.10.0, RVM: ruby-2.3.0 [kci-be]) [gem]">
@@ -5896,6 +5984,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@kci-be/gems/socksify-1.7.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@kci-be/gems/socksify-1.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sqlite3 (v1.3.11, RVM: ruby-2.3.0 [etv_core]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/sqlite3/1.3.11" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/sqlite3-1.3.11/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/sqlite3-1.3.11/faq" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/sqlite3-1.3.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/sqlite3-1.3.11/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/sqlite3/1.3.11" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/sqlite3-1.3.11/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/sqlite3-1.3.11/faq" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/sqlite3-1.3.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/sqlite3-1.3.11/tasks" />
       </SOURCES>
     </library>
     <library name="state_machine (v1.2.0, RVM: ruby-2.2.4 [kci-be]) [gem]">
