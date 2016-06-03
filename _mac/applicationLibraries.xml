@@ -706,11 +706,13 @@
     </library>
     <library name="byebug (v9.0.5, RVM: ruby-2.3.0 [kci-be]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/byebug/9.0.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/byebug-9.0.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/byebug-9.0.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/byebug-9.0.5/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/byebug/9.0.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/byebug-9.0.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/byebug-9.0.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/byebug-9.0.5/lib" />
@@ -1084,11 +1086,13 @@
     </library>
     <library name="curb (v0.9.3, RVM: ruby-2.3.0 [kci-be]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/curb/0.9.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/curb-0.9.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/curb-0.9.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/curb-0.9.3/tests" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/curb/0.9.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/curb-0.9.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/curb-0.9.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/curb-0.9.3/tests" />
@@ -2092,6 +2096,7 @@
     </library>
     <library name="eventmachine (v1.2.0.1, RVM: ruby-2.3.0 [kci-be]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/eventmachine/1.2.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/eventmachine-1.2.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/eventmachine-1.2.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/eventmachine-1.2.0.1/java" />
@@ -2099,6 +2104,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/eventmachine-1.2.0.1/rakelib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/eventmachine/1.2.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/eventmachine-1.2.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/eventmachine-1.2.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/eventmachine-1.2.0.1/java" />
@@ -4150,11 +4156,13 @@
     </library>
     <library name="mysql2 (v0.4.4, RVM: ruby-2.3.0 [kci-be]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/mysql2/0.4.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/mysql2-0.4.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/mysql2-0.4.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/mysql2-0.4.4/support" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/mysql2/0.4.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/mysql2-0.4.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/mysql2-0.4.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/mysql2-0.4.4/support" />
@@ -7090,12 +7098,14 @@
     </library>
     <library name="thin (v1.7.0, RVM: ruby-2.3.0 [kci-be]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/thin/1.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/thin-1.7.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/thin-1.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/thin-1.7.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/thin-1.7.0/example" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/thin/1.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/thin-1.7.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/thin-1.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/thin-1.7.0/lib" />
