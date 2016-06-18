@@ -1994,6 +1994,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/diff-lcs-1.2.5/autotest" />
       </SOURCES>
     </library>
+    <library name="diff-lcs (v1.2.5, RVM: ruby-2.2.4 [mega_present]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/diff-lcs-1.2.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/diff-lcs-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/diff-lcs-1.2.5/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/diff-lcs-1.2.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/diff-lcs-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/diff-lcs-1.2.5/autotest" />
+      </SOURCES>
+    </library>
     <library name="diff-lcs (v1.2.5, RVM: ruby-2.3.0 [etv_core]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/diff-lcs-1.2.5/bin" />
@@ -7928,6 +7940,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/rspec-3.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec (v3.4.0, RVM: ruby-2.2.4 [mega_present]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/rspec-3.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/rspec-3.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec (v3.4.0, RVM: ruby-2.3.0 [etv_core]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/rspec-3.4.0/lib" />
@@ -8074,6 +8094,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/rspec-core-3.4.4/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.4.4, RVM: ruby-2.2.4 [mega_present]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/rspec-core-3.4.4/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/rspec-core-3.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/rspec-core-3.4.4/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/rspec-core-3.4.4/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-core (v3.4.4, RVM: ruby-2.3.0 [etv_core]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/rspec-core-3.4.4/exe" />
@@ -8142,6 +8172,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/rspec-expectations-3.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-expectations (v3.4.0, RVM: ruby-2.2.4 [mega_present]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/rspec-expectations-3.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/rspec-expectations-3.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v3.4.0, RVM: ruby-2.3.0 [etv_core]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/rspec-expectations-3.4.0/lib" />
@@ -8206,6 +8244,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/rspec-mocks-3.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-mocks (v3.4.1, RVM: ruby-2.2.4 [mega_present]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/rspec-mocks-3.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/rspec-mocks-3.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-mocks (v3.4.1, RVM: ruby-2.3.0 [etv_core]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/rspec-mocks-3.4.1/lib" />
@@ -8268,6 +8314,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/rspec-support-3.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.4.1, RVM: ruby-2.2.4 [mega_present]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/rspec-support-3.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/rspec-support-3.4.1/lib" />
       </SOURCES>
     </library>
     <library name="rspec-support (v3.4.1, RVM: ruby-2.3.0 [etv_core]) [gem]">
