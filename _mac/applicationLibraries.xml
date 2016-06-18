@@ -478,6 +478,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@kci-be/gems/ast-2.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="autoprefixer-rails (v6.3.6.2, RVM: ruby-2.2.4 [mega_present]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/autoprefixer-rails-6.3.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/autoprefixer-rails-6.3.6.2/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/autoprefixer-rails-6.3.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/autoprefixer-rails-6.3.6.2/vendor" />
+      </SOURCES>
+    </library>
     <library name="axlsx (v2.0.1, Remote:ruby-2.3.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.1/ruby_stubs/-1572318362/-472250549/gems/axlsx-2.0.1/lib" />
@@ -654,6 +664,20 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@kci-be/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@kci-be/gems/binding_of_caller-0.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="bootstrap-sass (v3.3.6, RVM: ruby-2.2.4 [mega_present]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/bootstrap-sass-3.3.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/bootstrap-sass-3.3.6/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/bootstrap-sass-3.3.6/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/bootstrap-sass-3.3.6/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/bootstrap-sass-3.3.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/bootstrap-sass-3.3.6/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/bootstrap-sass-3.3.6/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/bootstrap-sass-3.3.6/templates" />
       </SOURCES>
     </library>
     <library name="builder (v3.2.2, Remote:ruby-2.3.0-p0) [gem]">
