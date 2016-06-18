@@ -4802,6 +4802,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@kci-be/gems/letter_opener-1.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="libv8 (v3.16.14.15, RVM: ruby-2.2.4 [mega_present]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/libv8/3.16.14.15" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/libv8-3.16.14.15-x86_64-darwin-15/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/libv8-3.16.14.15-x86_64-darwin-15/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/libv8-3.16.14.15-x86_64-darwin-15/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/libv8/3.16.14.15" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/libv8-3.16.14.15-x86_64-darwin-15/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/libv8-3.16.14.15-x86_64-darwin-15/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/libv8-3.16.14.15-x86_64-darwin-15/vendor" />
+      </SOURCES>
+    </library>
     <library name="log4r (v1.1.10, Remote:ruby-2.3.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.1/ruby_stubs/-1572318362/-472250549/gems/log4r-1.1.10/lib" />
@@ -6502,6 +6516,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/parser-2.3.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="pg (v0.18.4, RVM: ruby-2.2.4 [mega_present]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/pg/0.18.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/pg-0.18.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/pg-0.18.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/pg-0.18.4/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/pg/0.18.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/pg-0.18.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/pg-0.18.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/pg-0.18.4/sample" />
+      </SOURCES>
+    </library>
     <library name="pkg-config (v1.1.7, RVM: ruby-2.2.4 [kci-be]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/pkg-config-1.1.7/lib" />
@@ -6864,6 +6892,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/puma-3.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/puma-3.4.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/puma-3.4.0/tools" />
+      </SOURCES>
+    </library>
+    <library name="puma (v3.4.0, RVM: ruby-2.2.4 [mega_present]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/puma/3.4.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/puma-3.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/puma-3.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/puma-3.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/puma-3.4.0/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/puma/3.4.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/puma-3.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/puma-3.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/puma-3.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/puma-3.4.0/tools" />
       </SOURCES>
     </library>
     <library name="puma (v3.4.0, RVM: ruby-2.3.0 [kci-be]) [gem]">
@@ -7782,6 +7826,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@kci-be/gems/redis-store-1.1.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="ref (v2.0.0, RVM: ruby-2.2.4 [mega_present]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/ref-2.0.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/ref-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/ref-2.0.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/ref-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="rmagick (v2.15.4, RVM: ruby-2.2.4 [kci-be]) [gem]">
@@ -9892,6 +9946,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/test-unit-3.1.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/test-unit-3.1.5/sample" />
+      </SOURCES>
+    </library>
+    <library name="therubyracer (v0.12.2, RVM: ruby-2.2.4 [mega_present]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/therubyracer/0.12.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/therubyracer-0.12.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/therubyracer-0.12.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/therubyracer/0.12.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/therubyracer-0.12.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/therubyracer-0.12.2/lib" />
       </SOURCES>
     </library>
     <library name="thin (v1.6.4, RVM: ruby-2.2.4 [kci-be]) [gem]">
