@@ -48,6 +48,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/actionview-4.2.6/lib" />
       </SOURCES>
     </library>
+    <library name="active_model_serializers (v0.10.1, RVM: ruby-2.2.4 [mega_present]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/active_model_serializers-0.10.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/active_model_serializers-0.10.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/active_model_serializers-0.10.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/active_model_serializers-0.10.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/active_model_serializers-0.10.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/active_model_serializers-0.10.1/.github" />
+      </SOURCES>
+    </library>
     <library name="activejob (v4.2.5, Remote:ruby-2.3.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.1/ruby_stubs/-1572318362/-472250549/gems/activejob-4.2.5/lib" />
@@ -1776,6 +1788,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/debase-0.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.1, RVM: ruby-2.2.4 [mega_present]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/debase-0.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/debase-0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/debase-0.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/debase-0.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.2.1, RVM: ruby-2.3.0 [kci-be]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/debase-0.2.1/ext" />
@@ -1826,6 +1848,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/debase-0.2.2.beta7/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.2.beta8, RVM: ruby-2.2.4 [mega_present]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/debase-0.2.2.beta8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/debase-0.2.2.beta8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/debase-0.2.2.beta8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/debase-0.2.2.beta8/lib" />
+      </SOURCES>
+    </library>
     <library name="debase-ruby_core_source (v0.8.4, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/debase-ruby_core_source-0.8.4/lib" />
@@ -1856,6 +1888,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.1/ruby_stubs/-1572318362/-1845903090/gems/debase-ruby_core_source-0.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.9.0, RVM: ruby-2.2.4 [mega_present]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/debase-ruby_core_source-0.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/debase-ruby_core_source-0.9.0/lib" />
       </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.9.0, RVM: ruby-2.3.1 [kci-be]) [gem]">
@@ -4674,6 +4714,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/json-1.8.3/tests" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/json-1.8.3/tools" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/json-1.8.3/diagrams" />
+      </SOURCES>
+    </library>
+    <library name="jsonapi (v0.1.1.beta2, RVM: ruby-2.2.4 [mega_present]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/jsonapi-0.1.1.beta2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/jsonapi-0.1.1.beta2/lib" />
       </SOURCES>
     </library>
     <library name="kgio (v2.10.0, Remote:ruby-2.3.0-p0) [gem]">
@@ -8522,6 +8570,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/ruby-debug-ide-0.6.1.beta2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/ruby-debug-ide-0.6.1.beta2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/ruby-debug-ide-0.6.1.beta2/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1.beta2, RVM: ruby-2.2.4 [mega_present]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/ruby-debug-ide-0.6.1.beta2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/ruby-debug-ide-0.6.1.beta2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/ruby-debug-ide-0.6.1.beta2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/ruby-debug-ide-0.6.1.beta2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/ruby-debug-ide-0.6.1.beta2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/ruby-debug-ide-0.6.1.beta2/lib" />
       </SOURCES>
     </library>
     <library name="ruby-debug-ide (v0.6.1.beta2, RVM: ruby-2.3.1 [kci-be]) [gem]">
