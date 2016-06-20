@@ -1482,6 +1482,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/concurrent-ruby-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="concurrent-ruby (v1.0.2, RVM: ruby-2.3.0 [etv_core]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/concurrent-ruby-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/concurrent-ruby-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="concurrent-ruby (v1.0.2, RVM: ruby-2.3.0 [kci-be]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/concurrent-ruby-1.0.2/lib" />
@@ -9304,6 +9312,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/sequel-4.34.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/sequel-4.34.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sequel (v4.35.0, RVM: ruby-2.3.0 [etv_core]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/sequel-4.35.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/sequel-4.35.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/sequel-4.35.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/sequel-4.35.0/lib" />
       </SOURCES>
     </library>
     <library name="serverengine (v1.5.11, RVM: ruby-2.3.0) [gem]">
