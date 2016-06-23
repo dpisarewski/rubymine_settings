@@ -6726,6 +6726,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/ntlm-http-0.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.9.0, RVM: ruby-2.2.4 [kci-be]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/parallel-1.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/parallel-1.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="parallel_tests (v2.5.0, RVM: ruby-2.2.4 [kci-be]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/parallel_tests-2.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/parallel_tests-2.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/parallel_tests-2.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/parallel_tests-2.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="parser (v2.3.0.6, Remote:ruby-2.3.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.1/ruby_stubs/-1572318362/-472250549/gems/parser-2.3.0.6/bin" />
