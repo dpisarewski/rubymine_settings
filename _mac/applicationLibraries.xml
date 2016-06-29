@@ -3194,6 +3194,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@kci-be/gems/etv_core-0.8.8/lib" />
       </SOURCES>
     </library>
+    <library name="etv_core (v0.8.9, RVM: ruby-2.2.4 [kci-be]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/etv_core-0.8.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/etv_core-0.8.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/etv_core-0.8.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@kci-be/gems/etv_core-0.8.9/lib" />
+      </SOURCES>
+    </library>
     <library name="etventure_flickr_gem (v0.1.0, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/etventure_flickr_gem-0.1.0/bin" />
