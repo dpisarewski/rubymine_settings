@@ -10256,6 +10256,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@kci-be/bundler/gems/sinatra-param-f71c1c777ff7/example" />
       </SOURCES>
     </library>
+    <library name="slim (v3.0.7, RVM: ruby-2.2.4 [mega_present]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/slim-3.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/slim-3.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/slim-3.0.7/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/slim-3.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/slim-3.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/slim-3.0.7/benchmarks" />
+      </SOURCES>
+    </library>
     <library name="slop (v3.6.0, Remote:ruby-2.3.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.1/ruby_stubs/-1572318362/-472250549/gems/slop-3.6.0/lib" />
@@ -10514,6 +10526,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@kci-be/gems/state_machine-1.2.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@kci-be/gems/state_machine-1.2.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="temple (v0.7.7, RVM: ruby-2.2.4 [mega_present]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/temple-0.7.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/temple-0.7.7/lib" />
       </SOURCES>
     </library>
     <library name="test-unit (v3.0.8, RVM: ruby-2.2.4 [global]) [gem]">
