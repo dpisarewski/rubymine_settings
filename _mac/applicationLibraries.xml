@@ -2740,6 +2740,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/dry-container-0.4.0/rakelib" />
       </SOURCES>
     </library>
+    <library name="dry-container (v0.5.0, RVM: ruby-2.3.0 [rbn-be-api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/dry-container-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/dry-container-0.5.0/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/dry-container-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/dry-container-0.5.0/rakelib" />
+      </SOURCES>
+    </library>
     <library name="dry-equalizer (v0.2.0, RVM: ruby-2.3.0 [rbn-be-api]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/dry-equalizer-0.2.0/lib" />
