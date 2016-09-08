@@ -716,10 +716,12 @@
     </library>
     <library name="bcrypt (v3.1.11, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/bcrypt-3.1.11/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
@@ -4264,6 +4266,7 @@
     </library>
     <library name="eventmachine (v1.2.0.1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/eventmachine/1.2.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/eventmachine-1.2.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/eventmachine-1.2.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/eventmachine-1.2.0.1/java" />
@@ -4271,6 +4274,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/eventmachine-1.2.0.1/rakelib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/eventmachine/1.2.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/eventmachine-1.2.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/eventmachine-1.2.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/eventmachine-1.2.0.1/java" />
@@ -8582,6 +8586,7 @@
     </library>
     <library name="nokogiri (v1.6.8, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/nokogiri-1.6.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/nokogiri-1.6.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/nokogiri-1.6.8/lib" />
@@ -8590,6 +8595,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/nokogiri-1.6.8/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/nokogiri-1.6.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/nokogiri-1.6.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/nokogiri-1.6.8/lib" />
@@ -8830,11 +8836,13 @@
     </library>
     <library name="pg (v0.18.4, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.18.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/pg-0.18.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/pg-0.18.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/pg-0.18.4/sample" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.18.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/pg-0.18.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/pg-0.18.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/pg-0.18.4/sample" />
@@ -13206,12 +13214,14 @@
     </library>
     <library name="thin (v1.7.0, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/thin/1.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/thin-1.7.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/thin-1.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/thin-1.7.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/thin-1.7.0/example" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/thin/1.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/thin-1.7.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/thin-1.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/thin-1.7.0/lib" />
