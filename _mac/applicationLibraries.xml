@@ -6948,6 +6948,7 @@
     </library>
     <library name="json (v2.0.1, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/2.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/json-2.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/json-2.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/json-2.0.1/data" />
@@ -6958,6 +6959,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/json-2.0.1/references" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/2.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/json-2.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/json-2.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/json-2.0.1/data" />
@@ -11686,6 +11688,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/rspec-core-3.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.5.0, RVM: ruby-2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rspec-core-3.5.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rspec-core-3.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rspec-core-3.5.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rspec-core-3.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-core (v3.5.2, RVM: ruby-2.3.0 [rbn-be-api]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/rspec-core-3.5.2/exe" />
@@ -12162,6 +12174,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/rubocop-0.41.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/rubocop-0.41.1/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/rubocop-0.41.1/config" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.41.1, RVM: ruby-2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rubocop-0.41.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rubocop-0.41.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rubocop-0.41.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rubocop-0.41.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rubocop-0.41.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rubocop-0.41.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rubocop-0.41.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rubocop-0.41.1/config" />
       </SOURCES>
     </library>
     <library name="rubocop (v0.42.0, RVM: ruby-2.2.4 [kci-be]) [gem]">
