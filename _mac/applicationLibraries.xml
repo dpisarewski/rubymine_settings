@@ -818,10 +818,12 @@
     </library>
     <library name="bcrypt (v3.1.11, RVM: ruby-2.3.0 [sms-be-core]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/bcrypt-3.1.11/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
@@ -900,10 +902,12 @@
     </library>
     <library name="binding_of_caller (v0.7.2, RVM: ruby-2.3.0 [sms-be-core]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/binding_of_caller-0.7.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/binding_of_caller-0.7.2/lib" />
       </SOURCES>
@@ -1510,11 +1514,13 @@
     </library>
     <library name="byebug (v9.0.5, RVM: ruby-2.3.0 [sms-be-core]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/9.0.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/byebug-9.0.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/byebug-9.0.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/byebug-9.0.5/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/9.0.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/byebug-9.0.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/byebug-9.0.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/byebug-9.0.5/lib" />
@@ -2606,10 +2612,12 @@
     </library>
     <library name="debug_inspector (v0.0.2, RVM: ruby-2.3.0 [sms-be-core]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/debug_inspector-0.0.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/debug_inspector-0.0.2/lib" />
       </SOURCES>
@@ -4816,6 +4824,7 @@
     </library>
     <library name="eventmachine (v1.2.0.1, RVM: ruby-2.3.0 [sms-be-core]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/eventmachine/1.2.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/eventmachine-1.2.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/eventmachine-1.2.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/eventmachine-1.2.0.1/java" />
@@ -4823,6 +4832,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/eventmachine-1.2.0.1/rakelib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/eventmachine/1.2.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/eventmachine-1.2.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/eventmachine-1.2.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/eventmachine-1.2.0.1/java" />
@@ -7180,6 +7190,7 @@
     </library>
     <library name="json (v2.0.1, RVM: ruby-2.3.0 [sms-be-core]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/2.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/json-2.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/json-2.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/json-2.0.1/data" />
@@ -7190,6 +7201,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/json-2.0.1/references" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/2.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/json-2.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/json-2.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/json-2.0.1/data" />
@@ -9624,6 +9636,7 @@
     </library>
     <library name="nokogiri (v1.6.8, RVM: ruby-2.3.0 [sms-be-core]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/nokogiri-1.6.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/nokogiri-1.6.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/nokogiri-1.6.8/lib" />
@@ -9632,6 +9645,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/nokogiri-1.6.8/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/nokogiri-1.6.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/nokogiri-1.6.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/nokogiri-1.6.8/lib" />
@@ -9912,11 +9926,13 @@
     </library>
     <library name="pg (v0.18.4, RVM: ruby-2.3.0 [sms-be-core]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.18.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/pg-0.18.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/pg-0.18.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/pg-0.18.4/sample" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.18.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/pg-0.18.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/pg-0.18.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/pg-0.18.4/sample" />
@@ -14822,12 +14838,14 @@
     </library>
     <library name="thin (v1.7.0, RVM: ruby-2.3.0 [sms-be-core]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/thin/1.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/thin-1.7.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/thin-1.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/thin-1.7.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/thin-1.7.0/example" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/thin/1.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/thin-1.7.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/thin-1.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@sms-be-core/gems/thin-1.7.0/lib" />
