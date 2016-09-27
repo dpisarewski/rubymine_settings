@@ -1540,6 +1540,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/byebug-9.0.5/lib" />
       </SOURCES>
     </library>
+    <library name="childprocess (v0.5.9, RVM: ruby-2.3.0 [rbn-be-api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/childprocess-0.5.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/childprocess-0.5.9/lib" />
+      </SOURCES>
+    </library>
     <library name="chronic (v0.10.2, Remote:ruby-2.3.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.1/ruby_stubs/-1572318362/-472250549/gems/chronic-0.10.2/lib" />
@@ -6214,6 +6222,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/inflecto-0.0.2/config" />
       </SOURCES>
     </library>
+    <library name="iniparse (v1.4.2, RVM: ruby-2.3.0 [rbn-be-api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/iniparse-1.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/iniparse-1.4.2/lib" />
+      </SOURCES>
+    </library>
     <library name="interception (v0.5, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/interception/0.5" />
@@ -9714,6 +9730,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/ntlm-http-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="overcommit (v0.36.0, RVM: ruby-2.3.0 [rbn-be-api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/overcommit-0.36.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/overcommit-0.36.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/overcommit-0.36.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/overcommit-0.36.0/libexec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/overcommit-0.36.0/template-dir" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/overcommit-0.36.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/overcommit-0.36.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/overcommit-0.36.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/overcommit-0.36.0/libexec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/overcommit-0.36.0/template-dir" />
       </SOURCES>
     </library>
     <library name="parallel (v1.9.0, RVM: ruby-2.2.4 [kci-be]) [gem]">
