@@ -3214,6 +3214,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/dry-monads-0.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="dry-monads (v0.2.0, RVM: ruby-2.3.0 [rbn-be-api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/dry-monads-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/dry-monads-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/dry-monads-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/dry-monads-0.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="dry-types (v0.7.2@ce8761, RVM: ruby-2.3.0 [etv_core]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/bundler/gems/dry-types-ce8761715332/bin" />
@@ -4626,6 +4636,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/etv_core-2.0.0.pre.53/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/etv_core-2.0.0.pre.53/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/etv_core-2.0.0.pre.53/config" />
+      </SOURCES>
+    </library>
+    <library name="etv_core (v2.0.0.pre.54, RVM: ruby-2.3.0 [rbn-be-api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/etv_core-2.0.0.pre.54/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/etv_core-2.0.0.pre.54/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/etv_core-2.0.0.pre.54/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/etv_core-2.0.0.pre.54/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/etv_core-2.0.0.pre.54/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/etv_core-2.0.0.pre.54/config" />
       </SOURCES>
     </library>
     <library name="etv_core_auth (v1.0.0.pre.11, RVM: ruby-2.3.0 [rbn-be-api]) [gem]">
@@ -8560,6 +8582,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/minitest-5.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.9.1, RVM: ruby-2.3.0 [rbn-be-api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/minitest-5.9.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/minitest-5.9.1/lib" />
       </SOURCES>
     </library>
     <library name="moqueue (v0.1.4, RVM: ruby-2.3.0 [etv_core]) [gem]">
@@ -13424,6 +13454,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/sentry-raven-1.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="sentry-raven (v2.0.1, RVM: ruby-2.3.0 [rbn-be-api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/sentry-raven-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/sentry-raven-2.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="sequel (v4.29.0, Remote:ruby-2.3.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.1/ruby_stubs/-1572318362/-472250549/gems/sequel-4.29.0/bin" />
@@ -13612,6 +13650,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/sequel-4.38.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/sequel-4.38.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sequel (v4.38.0, RVM: ruby-2.3.0 [rbn-be-api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/sequel-4.38.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/sequel-4.38.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/sequel-4.38.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/sequel-4.38.0/lib" />
       </SOURCES>
     </library>
     <library name="sequel_enum (v0.0.1, RVM: ruby-2.3.0 [rbn-be-api]) [gem]">
