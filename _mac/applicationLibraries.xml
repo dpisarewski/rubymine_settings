@@ -5314,6 +5314,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/etv_core-2.0.0.pre.55/config" />
       </SOURCES>
     </library>
+    <library name="etv_core (v2.0.0.pre.56, RVM: ruby-2.3.1 [rbn-be-api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rbn-be-api/gems/etv_core-2.0.0.pre.56/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rbn-be-api/gems/etv_core-2.0.0.pre.56/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rbn-be-api/gems/etv_core-2.0.0.pre.56/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rbn-be-api/gems/etv_core-2.0.0.pre.56/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rbn-be-api/gems/etv_core-2.0.0.pre.56/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rbn-be-api/gems/etv_core-2.0.0.pre.56/config" />
+      </SOURCES>
+    </library>
     <library name="etv_core_auth (v1.0.0.pre.11, RVM: ruby-2.3.0 [rbn-be-api]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/etv_core_auth-1.0.0.pre.11/db" />
