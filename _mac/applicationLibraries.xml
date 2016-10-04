@@ -5274,6 +5274,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rbn-be-api/gems/etv_core-2.0.0.pre.54/config" />
       </SOURCES>
     </library>
+    <library name="etv_core (v2.0.0.pre.55, RVM: ruby-2.3.1 [rbn-be-api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/etv_core-2.0.0.pre.55/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/etv_core-2.0.0.pre.55/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/etv_core-2.0.0.pre.55/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/etv_core-2.0.0.pre.55/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/etv_core-2.0.0.pre.55/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/etv_core-2.0.0.pre.55/config" />
+      </SOURCES>
+    </library>
     <library name="etv_core_auth (v1.0.0.pre.11, RVM: ruby-2.3.0 [rbn-be-api]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@rbn-be-api/gems/etv_core_auth-1.0.0.pre.11/db" />
@@ -15966,6 +15978,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@etv_core/gems/sentry-raven-2.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="sentry-raven (v2.0.2, RVM: ruby-2.3.1 [rbn-be-api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/sentry-raven-2.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/sentry-raven-2.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="sequel (v4.29.0, Remote:ruby-2.3.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2016.1/ruby_stubs/-1572318362/-472250549/gems/sequel-4.29.0/bin" />
@@ -16194,6 +16214,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0-preview1@kci-be/gems/sequel-4.38.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0-preview1@kci-be/gems/sequel-4.38.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sequel (v4.39.0, RVM: ruby-2.3.1 [rbn-be-api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/sequel-4.39.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/sequel-4.39.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/sequel-4.39.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/sequel-4.39.0/lib" />
       </SOURCES>
     </library>
     <library name="sequel_enum (v0.0.1, RVM: ruby-2.3.0 [rbn-be-api]) [gem]">
