@@ -7480,6 +7480,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0-preview1@kci-be/gems/nokogiri-1.6.8/suppressions" />
       </SOURCES>
     </library>
+    <library name="nokogiri (v1.6.8.1, RVM: ruby-2.3.1 [rbn-be-api]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rbn-be-api/gems/nokogiri-1.6.8.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rbn-be-api/gems/nokogiri-1.6.8.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rbn-be-api/gems/nokogiri-1.6.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rbn-be-api/gems/nokogiri-1.6.8.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rbn-be-api/gems/nokogiri-1.6.8.1/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rbn-be-api/gems/nokogiri-1.6.8.1/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rbn-be-api/gems/nokogiri-1.6.8.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rbn-be-api/gems/nokogiri-1.6.8.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rbn-be-api/gems/nokogiri-1.6.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rbn-be-api/gems/nokogiri-1.6.8.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rbn-be-api/gems/nokogiri-1.6.8.1/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rbn-be-api/gems/nokogiri-1.6.8.1/suppressions" />
+      </SOURCES>
+    </library>
     <library name="notiffany (v0.1.1, RVM: ruby-2.2.5 [kci-be]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5@kci-be/gems/notiffany-0.1.1/lib" />
