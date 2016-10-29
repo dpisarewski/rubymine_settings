@@ -10720,12 +10720,14 @@
     </library>
     <library name="puma (v3.6.0, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/puma/3.6.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/puma-3.6.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/puma-3.6.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/puma-3.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/puma-3.6.0/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/puma/3.6.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/puma-3.6.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/puma-3.6.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/puma-3.6.0/lib" />
@@ -14784,12 +14786,14 @@
     </library>
     <library name="sqlite3 (v1.3.11, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/sqlite3/1.3.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/sqlite3-1.3.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/sqlite3-1.3.11/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/sqlite3-1.3.11/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/sqlite3-1.3.11/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/sqlite3/1.3.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/sqlite3-1.3.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/sqlite3-1.3.11/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/sqlite3-1.3.11/lib" />
