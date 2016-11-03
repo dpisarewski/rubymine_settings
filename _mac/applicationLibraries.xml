@@ -2700,6 +2700,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5@kci-be/gems/debase-0.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.1, RVM: ruby-2.3.1 [find-movie]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/debase-0.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/debase-0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/debase-0.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/debase-0.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.2.1, RVM: ruby-2.3.1 [kci-be]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@kci-be/gems/debase-0.2.1/ext" />
@@ -2758,6 +2768,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5@kci-be/gems/debase-0.2.2.beta8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5@kci-be/gems/debase-0.2.2.beta8/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase (v0.2.2.beta8, RVM: ruby-2.3.1 [find-movie]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/debase-0.2.2.beta8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/debase-0.2.2.beta8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/debase-0.2.2.beta8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/debase-0.2.2.beta8/lib" />
       </SOURCES>
     </library>
     <library name="debase (v0.2.2.beta8, RVM: ruby-2.3.1 [kci-be]) [gem]">
@@ -2828,6 +2848,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5@kci-be/gems/debase-ruby_core_source-0.9.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.9.2, RVM: ruby-2.3.1 [find-movie]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/debase-ruby_core_source-0.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/debase-ruby_core_source-0.9.2/lib" />
       </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.9.2, RVM: ruby-2.3.1 [rbn-be-api]) [gem]">
@@ -13834,6 +13862,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5@kci-be/gems/ruby-debug-ide-0.6.1.beta2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5@kci-be/gems/ruby-debug-ide-0.6.1.beta2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5@kci-be/gems/ruby-debug-ide-0.6.1.beta2/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1.beta2, RVM: ruby-2.3.1 [find-movie]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/ruby-debug-ide-0.6.1.beta2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/ruby-debug-ide-0.6.1.beta2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/ruby-debug-ide-0.6.1.beta2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/ruby-debug-ide-0.6.1.beta2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/ruby-debug-ide-0.6.1.beta2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/ruby-debug-ide-0.6.1.beta2/lib" />
       </SOURCES>
     </library>
     <library name="ruby-debug-ide (v0.6.1.beta2, RVM: ruby-2.3.1 [kci-be]) [gem]">
