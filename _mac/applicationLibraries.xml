@@ -164,6 +164,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/active_model_serializers-0.10.1/.github" />
       </SOURCES>
     </library>
+    <library name="active_model_serializers (v0.10.2, RVM: ruby-2.3.1 [find-movie]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/active_model_serializers-0.10.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/active_model_serializers-0.10.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/active_model_serializers-0.10.2/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/active_model_serializers-0.10.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/active_model_serializers-0.10.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/active_model_serializers-0.10.2/.github" />
+      </SOURCES>
+    </library>
     <library name="active_model_serializers (v0.9.0, RVM: ruby-2.3.1 [find-movie]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/active_model_serializers-0.9.0/lib" />
