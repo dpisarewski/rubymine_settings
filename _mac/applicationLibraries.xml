@@ -8082,6 +8082,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4@mega_present/gems/jsonapi-0.1.1.beta2/lib" />
       </SOURCES>
     </library>
+    <library name="jsonapi (v0.1.1.beta6, RVM: ruby-2.3.1 [find-movie]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/jsonapi-0.1.1.beta6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/jsonapi-0.1.1.beta6/lib" />
+      </SOURCES>
+    </library>
+    <library name="jsonapi-parser (v0.1.1.beta3, RVM: ruby-2.3.1 [find-movie]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/jsonapi-parser-0.1.1.beta3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/jsonapi-parser-0.1.1.beta3/lib" />
+      </SOURCES>
+    </library>
+    <library name="jsonapi-renderer (v0.1.1.beta1, RVM: ruby-2.3.1 [find-movie]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/jsonapi-renderer-0.1.1.beta1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/jsonapi-renderer-0.1.1.beta1/lib" />
+      </SOURCES>
+    </library>
     <library name="jsonapi-serializers (v0.15.0, RVM: ruby-2.3.1 [rbn-be-api]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@rbn-be-api/gems/jsonapi-serializers-0.15.0/lib" />
