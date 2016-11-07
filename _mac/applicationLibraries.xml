@@ -3754,6 +3754,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@kci-be/gems/elasticsearch-api-2.0.0/utils" />
       </SOURCES>
     </library>
+    <library name="elasticsearch-dsl (v0.1.4, RVM: ruby-2.3.1 [find-movie]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/elasticsearch-dsl-0.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/elasticsearch-dsl-0.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="elasticsearch-model (v0.1.6@bd9b2f, RVM: ruby-2.3.1 [find-movie]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/bundler/gems/elasticsearch-rails-bd9b2fbe025b/elasticsearch-model/lib" />
@@ -3796,6 +3804,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/bundler/gems/elasticsearch-rails-bd9b2fbe025b/elasticsearch-rails/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-rails (v0.1.9, RVM: ruby-2.3.1 [find-movie]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/elasticsearch-rails-0.1.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@find-movie/gems/elasticsearch-rails-0.1.9/lib" />
       </SOURCES>
     </library>
     <library name="elasticsearch-rails (v0.1.9@157612, RVM: ruby-2.3.1 [find-movie]) [gem]">
